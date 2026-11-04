@@ -45,15 +45,24 @@ Shared database · server-side booking engine · record integrity · simultaneou
 
 ### PRIMARY
 
-<kbd>PYTHON</kbd>&nbsp; <kbd>SQL</kbd>&nbsp; <kbd>POSTGRESQL</kbd>&nbsp; <kbd>FASTAPI</kbd>
+![Python](https://img.shields.io/badge/PYTHON-101827?style=for-the-badge&logo=python&logoColor=4FC3F7)
+![SQL](https://img.shields.io/badge/SQL-101827?style=for-the-badge&logo=databricks&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-101827?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![FastAPI](https://img.shields.io/badge/FASTAPI-101827?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
 
 ### DATA & RELIABILITY
 
-<kbd>TRANSACTIONS</kbd>&nbsp; <kbd>DATA INTEGRITY</kbd>&nbsp; <kbd>CONCURRENCY</kbd>&nbsp; <kbd>PYTEST</kbd>&nbsp; <kbd>REDIS</kbd>
+<kbd>⟳ TRANSACTIONS</kbd>&nbsp; <kbd>◈ DATA INTEGRITY</kbd>&nbsp; <kbd>⚡ CONCURRENCY</kbd>&nbsp;
+![Pytest](https://img.shields.io/badge/PYTEST-101827?style=for-the-badge&logo=pytest&logoColor=38BDF8)
+![Redis](https://img.shields.io/badge/REDIS-101827?style=for-the-badge&logo=redis&logoColor=F87171)
 
 ### ENGINEERING TOOLCHAIN
 
-<kbd>DOCKER</kbd>&nbsp; <kbd>GIT</kbd>&nbsp; <kbd>LINUX</kbd>&nbsp; <kbd>JAVA</kbd>&nbsp; <kbd>REST API</kbd>
+![Docker](https://img.shields.io/badge/DOCKER-101827?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/GIT-101827?style=for-the-badge&logo=git&logoColor=F97316)
+![Linux](https://img.shields.io/badge/LINUX-101827?style=for-the-badge&logo=linux&logoColor=FACC15)
+![Java](https://img.shields.io/badge/JAVA-101827?style=for-the-badge&logo=openjdk&logoColor=FB923C)
+![REST API](https://img.shields.io/badge/REST_API-101827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 </div>
 
