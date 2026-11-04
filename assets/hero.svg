@@ -2,7 +2,6 @@
   <defs><linearGradient id="fade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101214"/><stop offset="1" stop-color="#171a1d"/></linearGradient></defs>
   <rect width="1200" height="320" rx="24" fill="url(#fade)"/>
   <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#32363b"/>
-  <rect x="62" y="48" width="34" height="5" rx="2.5" fill="#6f8cff"/>
   <text x="62" y="98" fill="#8d949c" font-family="Inter,Segoe UI,sans-serif" font-size="13" letter-spacing="2">BACKEND &amp; DATABASE ENGINEER</text>
   <text x="60" y="166" fill="#f3f1eb" font-family="Inter,Segoe UI,sans-serif" font-size="58" font-weight="750">Alibi Aibekuly</text>
   <text x="62" y="208" fill="#a8adb3" font-family="Inter,Segoe UI,sans-serif" font-size="18">Building reliable systems for real-world scale.</text>
