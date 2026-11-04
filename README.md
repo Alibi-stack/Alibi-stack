@@ -12,6 +12,8 @@
 
 <p align="center"><samp>● SYSTEM ONLINE &nbsp; // &nbsp; BACKEND + DATABASE ENGINEERING &nbsp; // &nbsp; BUILDING FOR RELIABILITY</samp></p>
 
+<p align="center"><strong>ASTANA IT UNIVERSITY</strong> &nbsp; · &nbsp; Expected graduation: <strong>2027</strong></p>
+
 ## 01 // SYSTEM PROFILE
 
 <table>
@@ -85,7 +87,9 @@ Shared database · server-side booking engine · record integrity · simultaneou
 
 ## 04 // VERIFIED TRACK
 
-My recent Coursera work follows one connected path: **architecture → databases → microservices → reliability → security → testing**.
+<p align="center"><kbd>85 COMPLETED CREDENTIALS</kbd>&nbsp; <kbd>75 COURSES</kbd>&nbsp; <kbd>10 SPECIALIZATIONS</kbd></p>
+
+Selected credentials from a learning path focused on **architecture → databases → microservices → reliability → security → testing**.
 
 <table>
 <tr><td><strong>MICROSERVICES ARCHITECTURE</strong><br/><sub>Design Patterns & Principles · Packt</sub></td><td align="right"><a href="https://www.coursera.org/account/accomplishments/specialization/YKVLXQQ2C1HJ"><kbd>VERIFY ↗</kbd></a></td></tr>
