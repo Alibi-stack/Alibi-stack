@@ -1,60 +1,59 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B5CFF,100:8A2BE2&height=220&section=header&text=ALIBI%20AIBEKULY&fontSize=46&fontColor=F4F7FF&fontAlignY=38&desc=BACKEND%20%2F%2F%20DATABASE%20%2F%2F%20RELIABLE%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" alt="Alibi Aibekuly — Backend and Database Developer" />
+<p align="center">
+  <img width="100%" src="./assets/hero.svg" alt="Alibi Aibekuly — Backend and Database Developer" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="#01--system-profile"><kbd>01 / PROFILE</kbd></a>&nbsp;
+  <a href="#02--tech-core"><kbd>02 / TECH CORE</kbd></a>&nbsp;
+  <a href="#03--featured-systems"><kbd>03 / SYSTEMS</kbd></a>&nbsp;
+  <a href="#04--verified-track"><kbd>04 / VERIFIED TRACK</kbd></a>&nbsp;
+  <a href="#05--control-plane"><kbd>05 / CONTROL PLANE</kbd></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Backend+%26+Database+Developer;Python+%2F+SQL+%2F+PostgreSQL;Transactions+%2F+Concurrency+%2F+Data+Integrity;Architecture+that+survives+real+workloads)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Alibi-stack&style=for-the-badge&color=0B5CFF&label=PROFILE+VIEWS)
-![Focus](https://img.shields.io/badge/FOCUS-BACKEND%20%26%20DATABASES-8A2BE2?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-BUILDING-00C2FF?style=for-the-badge)
-
-</div>
+<p align="center"><samp>● SYSTEM ONLINE &nbsp; // &nbsp; BACKEND + DATABASE ENGINEERING &nbsp; // &nbsp; BUILDING FOR RELIABILITY</samp></p>
 
 ## 01 // SYSTEM PROFILE
 
-I build **server-side systems where data must stay correct** — even when many requests arrive at the same time.
-
-My focus is backend engineering, relational databases, transactional integrity, API design, concurrency testing and software architecture. I care about clear domain logic, predictable failure modes and systems that remain reliable under pressure.
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### CORE
+### MISSION
 
-- Backend APIs and business logic
-- PostgreSQL schema design
-- Transactions and data integrity
-- Race-condition and concurrency testing
-- Microservices and architectural patterns
+I build **server-side systems where data must stay correct** — even when many requests arrive at the same time.
+
+My engineering focus is backend logic, relational databases, transactional integrity, API design and concurrency testing. I value clear domain rules, predictable failure modes and systems that remain reliable under real workloads.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### CURRENT MISSION
+### CURRENT BUILD
 
 **CyberSeat Booking System**
 
-Designing the shared database and server-side booking engine, protecting record integrity and testing simultaneous requests to prevent double booking.
+Shared database · server-side booking engine · record integrity · simultaneous-request testing · double-booking prevention.
+
+**ROLE // BACKEND & DATABASE**
 
 </td>
 </tr>
 </table>
 
-## 02 // TECH MATRIX
+## 02 // TECH CORE
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=A371F7)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D4AA)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF5C5C)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Pytest](https://img.shields.io/badge/Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=F4F7FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+### PRIMARY
+
+<kbd>PYTHON</kbd>&nbsp; <kbd>SQL</kbd>&nbsp; <kbd>POSTGRESQL</kbd>&nbsp; <kbd>FASTAPI</kbd>
+
+### DATA & RELIABILITY
+
+<kbd>TRANSACTIONS</kbd>&nbsp; <kbd>DATA INTEGRITY</kbd>&nbsp; <kbd>CONCURRENCY</kbd>&nbsp; <kbd>PYTEST</kbd>&nbsp; <kbd>REDIS</kbd>
+
+### ENGINEERING TOOLCHAIN
+
+<kbd>DOCKER</kbd>&nbsp; <kbd>GIT</kbd>&nbsp; <kbd>LINUX</kbd>&nbsp; <kbd>JAVA</kbd>&nbsp; <kbd>REST API</kbd>
 
 </div>
 
@@ -62,101 +61,45 @@ Designing the shared database and server-side booking engine, protecting record 
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ⚡ [KDBL Support Bot](https://github.com/Alibi-stack/KDBL-Support-Bot)
-
-**PYTHON // POSTGRESQL // AI**
-
-Intelligent support platform with ticket routing, persistent storage, multilingual workflows, reporting, metrics and operator tools.
-
-![Python](https://img.shields.io/badge/CORE-PYTHON-0B5CFF?style=flat-square)
-![Database](https://img.shields.io/badge/DATA-POSTGRESQL-8A2BE2?style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-00C2FF?style=flat-square)
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><img width="100%" src="./assets/project-kdbl.svg" alt="KDBL Support Bot" /></a>
+<br/><br/>
+<a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><kbd>OPEN REPOSITORY ↗</kbd></a>
 </td>
-<td width="50%" valign="top">
-
-### ◈ [CyberSeat Booking System](https://github.com/NeryBR/cyberseat-booking-system)
-
-**DATABASE // TRANSACTIONS // CONCURRENCY**
-
-Reliable reservation domain with a shared data model, booking consistency, architectural documentation and concurrency-safe server behavior.
-
-![Role](https://img.shields.io/badge/ROLE-BACKEND-0B5CFF?style=flat-square)
-![Focus](https://img.shields.io/badge/FOCUS-DATA%20INTEGRITY-8A2BE2?style=flat-square)
-![Tests](https://img.shields.io/badge/TESTS-CONCURRENT-00C2FF?style=flat-square)
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/NeryBR/cyberseat-booking-system"><img width="100%" src="./assets/project-cyberseat.svg" alt="CyberSeat Booking System" /></a>
+<br/><br/>
+<a href="https://github.com/NeryBR/cyberseat-booking-system"><kbd>OPEN REPOSITORY ↗</kbd></a>
 </td>
 </tr>
 </table>
 
-## 04 // VERIFIED LEARNING TRACK
+## 04 // VERIFIED TRACK
 
-My recent Coursera track forms one connected engineering path: **software architecture → databases → microservices → reliability → security → testing**.
-
-<div align="center">
-
-[![Microservices](https://img.shields.io/badge/Microservices_Architecture-Specialization-0B5CFF?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/YKVLXQQ2C1HJ)
-[![Software Architecture](https://img.shields.io/badge/Software_Design_%26_Architecture-Specialization-8A2BE2?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/BUV5BI780IN7)
-[![Enterprise Architecture](https://img.shields.io/badge/Enterprise_Architecture_with_.NET-Specialization-00AEEF?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/VL616R0HBXQZ)
-[![Cloud](https://img.shields.io/badge/Cloud_Infrastructure-Specialization-5865F2?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/RYHWHFYT36CL)
-[![Cybersecurity](https://img.shields.io/badge/IT_Fundamentals_for_Cybersecurity-Specialization-5C2D91?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/D2OIUXNZDHZ5)
-
-</div>
-
-## 05 // SYSTEM SIGNALS
+My recent Coursera work follows one connected path: **architecture → databases → microservices → reliability → security → testing**.
 
 <table>
-<tr>
-<td width="33%" align="center">
-
-### PYTHON
-
-**PRIMARY LANGUAGE**
-
-Backend services and automation
-
-</td>
-<td width="34%" align="center">
-
-### POSTGRESQL
-
-**DATA CORE**
-
-Schemas, transactions and integrity
-
-</td>
-<td width="33%" align="center">
-
-### RELIABILITY
-
-**ENGINEERING FOCUS**
-
-Concurrency, testing and architecture
-
-</td>
-</tr>
+<tr><td><strong>MICROSERVICES ARCHITECTURE</strong><br/><sub>Design Patterns & Principles · Packt</sub></td><td align="right"><a href="https://www.coursera.org/account/accomplishments/specialization/YKVLXQQ2C1HJ"><kbd>VERIFY ↗</kbd></a></td></tr>
+<tr><td><strong>SOFTWARE DESIGN & ARCHITECTURE</strong><br/><sub>University of Alberta</sub></td><td align="right"><a href="https://www.coursera.org/account/accomplishments/specialization/BUV5BI780IN7"><kbd>VERIFY ↗</kbd></a></td></tr>
+<tr><td><strong>ENTERPRISE ARCHITECTURE WITH .NET</strong><br/><sub>Packt</sub></td><td align="right"><a href="https://www.coursera.org/account/accomplishments/specialization/VL616R0HBXQZ"><kbd>VERIFY ↗</kbd></a></td></tr>
+<tr><td><strong>CLOUD INFRASTRUCTURE & PLATFORMS</strong><br/><sub>Illinois Tech</sub></td><td align="right"><a href="https://www.coursera.org/account/accomplishments/specialization/RYHWHFYT36CL"><kbd>VERIFY ↗</kbd></a></td></tr>
+<tr><td><strong>IT FUNDAMENTALS FOR CYBERSECURITY</strong><br/><sub>IBM</sub></td><td align="right"><a href="https://www.coursera.org/account/accomplishments/specialization/D2OIUXNZDHZ5"><kbd>VERIFY ↗</kbd></a></td></tr>
 </table>
 
-<div align="center">
+## 05 // CONTROL PLANE
 
-![Architecture](https://img.shields.io/badge/ARCHITECTURE-MODULAR-0B5CFF?style=for-the-badge)
-![Transactions](https://img.shields.io/badge/TRANSACTIONS-CONSISTENT-8A2BE2?style=for-the-badge)
-![Concurrency](https://img.shields.io/badge/CONCURRENCY-TESTED-00C2FF?style=for-the-badge)
+<p align="center">
+  <img width="100%" src="./assets/system-signals.svg" alt="Backend engineering system signals" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Alibi-stack?tab=repositories"><kbd>EXPLORE ALL REPOSITORIES</kbd></a>&nbsp;
+  <a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><kbd>VIEW PYTHON SYSTEM</kbd></a>&nbsp;
+  <a href="https://github.com/NeryBR/cyberseat-booking-system"><kbd>VIEW CURRENT MISSION</kbd></a>
+</p>
 
----
+<br/>
 
-<div align="center">
-
-**BUILD THE DATA LAYER RIGHT. EVERYTHING ELSE DEPENDS ON IT.**
-
-![Backend](https://img.shields.io/badge/BACKEND-ONLINE-00C2FF?style=flat-square)
-![Database](https://img.shields.io/badge/DATABASE-CONSISTENT-8A2BE2?style=flat-square)
-![Tests](https://img.shields.io/badge/TESTS-RUNNING-0B5CFF?style=flat-square)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,55:0B5CFF,100:050816&height=120&section=footer" alt="Footer" />
+<p align="center">
+  <img width="100%" src="./assets/footer.svg" alt="Build the data layer right" />
+</p>
