@@ -54,9 +54,7 @@ Shared database · server-side booking engine · record integrity · simultaneou
 
 ### DATA & RELIABILITY
 
-<kbd>⟳ TRANSACTIONS</kbd>&nbsp; <kbd>◈ DATA INTEGRITY</kbd>&nbsp; <kbd>⚡ CONCURRENCY</kbd>&nbsp;
-![Pytest](https://img.shields.io/badge/PYTEST-101827?style=for-the-badge&logo=pytest&logoColor=38BDF8)
-![Redis](https://img.shields.io/badge/REDIS-101827?style=for-the-badge&logo=redis&logoColor=F87171)
+<img width="100%" src="./assets/reliability-core.svg" alt="Transactions, data integrity, concurrency, Pytest and Redis" />
 
 ### ENGINEERING TOOLCHAIN
 
