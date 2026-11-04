@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-label="KDBL Support Bot project">
-  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101f"/><stop offset="1" stop-color="#101633"/></linearGradient><linearGradient id="a"><stop stop-color="#20d9ff"/><stop offset="1" stop-color="#4f7cff"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-  <rect x="2" y="2" width="576" height="246" rx="22" fill="url(#b)" stroke="#278aff" stroke-opacity=".38" stroke-width="2"/>
-  <path d="M24 64H556M430 2l148 148" stroke="#20d9ff" stroke-opacity=".1"/>
-  <circle cx="34" cy="33" r="5" fill="#20d9ff" filter="url(#g)"/><text x="51" y="38" fill="#7feeff" font-family="Consolas,monospace" font-size="12" letter-spacing="2">PROJECT // ACTIVE</text>
-  <text x="28" y="103" fill="#f5f8ff" font-family="Inter,Segoe UI,sans-serif" font-size="27" font-weight="800">KDBL SUPPORT BOT</text>
-  <text x="29" y="132" fill="#8fa8c9" font-family="Consolas,monospace" font-size="13">INTELLIGENT SUPPORT &amp; TICKET ROUTING</text>
-  <text x="29" y="168" fill="#b9c7dc" font-family="Inter,Segoe UI,sans-serif" font-size="14">Persistent storage · multilingual workflows · metrics</text>
-  <g font-family="Consolas,monospace" font-size="11" font-weight="700"><rect x="28" y="194" width="80" height="29" rx="14" fill="#102946" stroke="#20d9ff" stroke-opacity=".5"/><text x="46" y="213" fill="#7feeff">PYTHON</text><rect x="118" y="194" width="112" height="29" rx="14" fill="#17234b" stroke="#4f7cff" stroke-opacity=".55"/><text x="137" y="213" fill="#a4b7ff">POSTGRESQL</text><rect x="240" y="194" width="68" height="29" rx="14" fill="#231647" stroke="#a14fff" stroke-opacity=".55"/><text x="261" y="213" fill="#d6a7ff">AI</text></g>
-  <path d="M510 92v70m-35-35h70" stroke="url(#a)" stroke-width="4" stroke-linecap="round" filter="url(#g)"/><circle cx="510" cy="127" r="47" fill="none" stroke="#4f7cff" stroke-opacity=".17" stroke-dasharray="4 7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-label="KDBL Support Bot">
+  <rect x="1" y="1" width="578" height="228" rx="18" fill="#121416" stroke="#33373c"/>
+  <text x="28" y="42" fill="#7e8790" font-family="Inter,Segoe UI,sans-serif" font-size="12" letter-spacing="2">01 · FEATURED PRODUCT</text>
+  <text x="28" y="91" fill="#f1efe9" font-family="Inter,Segoe UI,sans-serif" font-size="27" font-weight="700">KDBL Support Bot</text>
+  <text x="28" y="123" fill="#9ba1a8" font-family="Inter,Segoe UI,sans-serif" font-size="14">Intelligent support and ticket routing platform.</text>
+  <line x1="28" y1="151" x2="552" y2="151" stroke="#2d3136"/>
+  <text x="28" y="186" fill="#c7c5bf" font-family="Inter,Segoe UI,sans-serif" font-size="13">Python</text><text x="108" y="186" fill="#c7c5bf" font-family="Inter,Segoe UI,sans-serif" font-size="13">PostgreSQL</text><text x="223" y="186" fill="#c7c5bf" font-family="Inter,Segoe UI,sans-serif" font-size="13">AI routing</text>
+  <rect x="464" y="169" width="88" height="34" rx="17" fill="#f1efe9"/><text x="508" y="191" text-anchor="middle" fill="#111315" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="700">VIEW ↗</text>
 </svg>
