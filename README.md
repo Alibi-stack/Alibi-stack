@@ -1,26 +1,26 @@
 <p align="center">
-  <img width="100%" src="./assets/hero.svg" alt="Alibi Aibekuly — Backend and Database Developer" />
+  <img width="100%" src="./assets/hero.svg?v=2" alt="Alibi Aibekuly — Backend and Database Developer" />
 </p>
 
 <p align="center">
-  <a href="#01--system-profile"><kbd>01 / PROFILE</kbd></a>&nbsp;
-  <a href="#02--tech-core"><kbd>02 / TECH CORE</kbd></a>&nbsp;
-  <a href="#03--featured-systems"><kbd>03 / SYSTEMS</kbd></a>&nbsp;
-  <a href="#04--verified-track"><kbd>04 / VERIFIED TRACK</kbd></a>&nbsp;
-  <a href="#05--control-plane"><kbd>05 / CONTROL PLANE</kbd></a>
+  <a href="#about"><strong>About</strong></a> &nbsp;·&nbsp;
+  <a href="#stack"><strong>Stack</strong></a> &nbsp;·&nbsp;
+  <a href="#selected-work"><strong>Work</strong></a> &nbsp;·&nbsp;
+  <a href="#credentials"><strong>Credentials</strong></a> &nbsp;·&nbsp;
+  <a href="#current-focus"><strong>Focus</strong></a>
 </p>
 
-<p align="center"><samp>● SYSTEM ONLINE &nbsp; // &nbsp; BACKEND + DATABASE ENGINEERING &nbsp; // &nbsp; BUILDING FOR RELIABILITY</samp></p>
+<p align="center"><em>Founder-minded engineer building reliable products from the data layer up.</em></p>
 
 <p align="center"><strong>ASTANA IT UNIVERSITY</strong> &nbsp; · &nbsp; Expected graduation: <strong>2027</strong></p>
 
-## 01 // SYSTEM PROFILE
+## About
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### MISSION
+### What I build
 
 I build **server-side systems where data must stay correct** — even when many requests arrive at the same time.
 
@@ -29,63 +29,63 @@ My engineering focus is backend logic, relational databases, transactional integ
 </td>
 <td width="42%" valign="top">
 
-### CURRENT BUILD
+### Currently
 
 **CyberSeat Booking System**
 
 Shared database · server-side booking engine · record integrity · simultaneous-request testing · double-booking prevention.
 
-**ROLE // BACKEND & DATABASE**
+Backend · Database · Product
 
 </td>
 </tr>
 </table>
 
-## 02 // TECH CORE
+## Stack
 
 <div align="center">
 
-### PRIMARY
+### Core
 
-![Python](https://img.shields.io/badge/PYTHON-101827?style=for-the-badge&logo=python&logoColor=4FC3F7)
-![SQL](https://img.shields.io/badge/SQL-101827?style=for-the-badge&logo=databricks&logoColor=A78BFA)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-101827?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![FastAPI](https://img.shields.io/badge/FASTAPI-101827?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
+![Python](https://img.shields.io/badge/PYTHON-1B1E22?style=for-the-badge&logo=python&logoColor=D8D4CA)
+![SQL](https://img.shields.io/badge/SQL-1B1E22?style=for-the-badge&logo=databricks&logoColor=D8D4CA)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-1B1E22?style=for-the-badge&logo=postgresql&logoColor=D8D4CA)
+![FastAPI](https://img.shields.io/badge/FASTAPI-1B1E22?style=for-the-badge&logo=fastapi&logoColor=D8D4CA)
 
-### DATA & RELIABILITY
+### Reliability
 
-<img width="100%" src="./assets/reliability-core.svg" alt="Transactions, data integrity, concurrency, Pytest and Redis" />
+<img width="100%" src="./assets/reliability-core.svg?v=2" alt="Transactions, data integrity, concurrency, Pytest and Redis" />
 
-### ENGINEERING TOOLCHAIN
+### Tooling
 
-![Docker](https://img.shields.io/badge/DOCKER-101827?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![Git](https://img.shields.io/badge/GIT-101827?style=for-the-badge&logo=git&logoColor=F97316)
-![Linux](https://img.shields.io/badge/LINUX-101827?style=for-the-badge&logo=linux&logoColor=FACC15)
-![Java](https://img.shields.io/badge/JAVA-101827?style=for-the-badge&logo=openjdk&logoColor=FB923C)
-![REST API](https://img.shields.io/badge/REST_API-101827?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Docker](https://img.shields.io/badge/DOCKER-1B1E22?style=for-the-badge&logo=docker&logoColor=D8D4CA)
+![Git](https://img.shields.io/badge/GIT-1B1E22?style=for-the-badge&logo=git&logoColor=D8D4CA)
+![Linux](https://img.shields.io/badge/LINUX-1B1E22?style=for-the-badge&logo=linux&logoColor=D8D4CA)
+![Java](https://img.shields.io/badge/JAVA-1B1E22?style=for-the-badge&logo=openjdk&logoColor=D8D4CA)
+![REST API](https://img.shields.io/badge/REST_API-1B1E22?style=for-the-badge&logo=postman&logoColor=D8D4CA)
 
 </div>
 
-## 03 // FEATURED SYSTEMS
+## Selected work
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><img width="100%" src="./assets/project-kdbl.svg" alt="KDBL Support Bot" /></a>
+<a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><img width="100%" src="./assets/project-kdbl.svg?v=2" alt="KDBL Support Bot" /></a>
 <br/><br/>
 <a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><kbd>OPEN REPOSITORY ↗</kbd></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/NeryBR/cyberseat-booking-system"><img width="100%" src="./assets/project-cyberseat.svg" alt="CyberSeat Booking System" /></a>
+<a href="https://github.com/NeryBR/cyberseat-booking-system"><img width="100%" src="./assets/project-cyberseat.svg?v=2" alt="CyberSeat Booking System" /></a>
 <br/><br/>
 <a href="https://github.com/NeryBR/cyberseat-booking-system"><kbd>OPEN REPOSITORY ↗</kbd></a>
 </td>
 </tr>
 </table>
 
-## 04 // VERIFIED TRACK
+## Credentials
 
-<p align="center"><kbd>85 COMPLETED CREDENTIALS</kbd>&nbsp; <kbd>75 COURSES</kbd>&nbsp; <kbd>10 SPECIALIZATIONS</kbd></p>
+<p align="center"><strong>85 completed credentials</strong> &nbsp;·&nbsp; 75 courses &nbsp;·&nbsp; 10 specializations</p>
 
 Selected credentials from a learning path focused on **architecture → databases → microservices → reliability → security → testing**.
 
@@ -97,20 +97,20 @@ Selected credentials from a learning path focused on **architecture → database
 <tr><td><strong>IT FUNDAMENTALS FOR CYBERSECURITY</strong><br/><sub>IBM</sub></td><td align="right"><a href="https://www.coursera.org/account/accomplishments/specialization/D2OIUXNZDHZ5"><kbd>VERIFY ↗</kbd></a></td></tr>
 </table>
 
-## 05 // CONTROL PLANE
+## Current focus
 
 <p align="center">
-  <img width="100%" src="./assets/system-signals.svg" alt="Backend engineering system signals" />
+  <img width="100%" src="./assets/system-signals.svg?v=2" alt="Backend engineering system signals" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alibi-stack?tab=repositories"><kbd>EXPLORE ALL REPOSITORIES</kbd></a>&nbsp;
-  <a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><kbd>VIEW PYTHON SYSTEM</kbd></a>&nbsp;
-  <a href="https://github.com/NeryBR/cyberseat-booking-system"><kbd>VIEW CURRENT MISSION</kbd></a>
+  <a href="https://github.com/Alibi-stack?tab=repositories"><strong>All repositories →</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><strong>KDBL Support Bot →</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/NeryBR/cyberseat-booking-system"><strong>CyberSeat →</strong></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="100%" src="./assets/footer.svg" alt="Build the data layer right" />
+  <img width="100%" src="./assets/footer.svg?v=2" alt="Build the data layer right" />
 </p>
