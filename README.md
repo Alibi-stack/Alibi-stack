@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/hero.svg?v=2" alt="Alibi Aibekuly — Backend and Database Developer" />
+  <img width="100%" src="./assets/hero.svg?v=3" alt="Alibi Aibekuly — Backend and Database Developer" />
 </p>
 
 <p align="center">
