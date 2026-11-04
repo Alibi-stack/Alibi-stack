@@ -60,18 +60,36 @@ Designing the shared database and server-side booking engine, protecting record 
 
 ## 03 // FEATURED SYSTEMS
 
-<div align="center">
-<a href="https://github.com/Alibi-stack/KDBL-Support-Bot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alibi-stack&repo=KDBL-Support-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="KDBL Support Bot" /></a>
-<a href="https://github.com/NeryBR/cyberseat-booking-system"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NeryBR&repo=cyberseat-booking-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="CyberSeat Booking System" /></a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### KDBL Support Bot
+### ⚡ [KDBL Support Bot](https://github.com/Alibi-stack/KDBL-Support-Bot)
 
-Python support platform with intelligent ticket routing, PostgreSQL-backed storage, multilingual workflows, reports, metrics and operator tooling.
+**PYTHON // POSTGRESQL // AI**
 
-### CyberSeat Booking System
+Intelligent support platform with ticket routing, persistent storage, multilingual workflows, reporting, metrics and operator tools.
 
-Team project focused on a reliable reservation domain: shared data model, booking consistency, architectural documentation and concurrency-safe server behavior.
+![Python](https://img.shields.io/badge/CORE-PYTHON-0B5CFF?style=flat-square)
+![Database](https://img.shields.io/badge/DATA-POSTGRESQL-8A2BE2?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-00C2FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ [CyberSeat Booking System](https://github.com/NeryBR/cyberseat-booking-system)
+
+**DATABASE // TRANSACTIONS // CONCURRENCY**
+
+Reliable reservation domain with a shared data model, booking consistency, architectural documentation and concurrency-safe server behavior.
+
+![Role](https://img.shields.io/badge/ROLE-BACKEND-0B5CFF?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-DATA%20INTEGRITY-8A2BE2?style=flat-square)
+![Tests](https://img.shields.io/badge/TESTS-CONCURRENT-00C2FF?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ## 04 // VERIFIED LEARNING TRACK
 
@@ -87,11 +105,46 @@ My recent Coursera track forms one connected engineering path: **software archit
 
 </div>
 
-## 05 // TELEMETRY
+## 05 // SYSTEM SIGNALS
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### PYTHON
+
+**PRIMARY LANGUAGE**
+
+Backend services and automation
+
+</td>
+<td width="34%" align="center">
+
+### POSTGRESQL
+
+**DATA CORE**
+
+Schemas, transactions and integrity
+
+</td>
+<td width="33%" align="center">
+
+### RELIABILITY
+
+**ENGINEERING FOCUS**
+
+Concurrency, testing and architecture
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alibi-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alibi-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+
+![Architecture](https://img.shields.io/badge/ARCHITECTURE-MODULAR-0B5CFF?style=for-the-badge)
+![Transactions](https://img.shields.io/badge/TRANSACTIONS-CONSISTENT-8A2BE2?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/CONCURRENCY-TESTED-00C2FF?style=for-the-badge)
+
 </div>
 
 ---
